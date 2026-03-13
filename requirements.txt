@@ -1,0 +1,10 @@
+ibapi
+flask
+waitress
+torch
+pandas
+scikit-learn
+ta
+matplotlib
+discord-webhooks
+python-dotenv

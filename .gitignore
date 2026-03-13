@@ -1,0 +1,21 @@
+# Environment
+.env
+settings.json
+
+# Data
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
